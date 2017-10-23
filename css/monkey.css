@@ -12,6 +12,5 @@ html {
   #monkey {
   position: absolute;
   top: 0px;
-  transform: rotate(-45deg);
 }
 }
