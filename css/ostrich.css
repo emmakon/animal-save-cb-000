@@ -12,5 +12,6 @@ html {
   #ostrich {
   position: absolute;
   top: 0px;
+  transform: rotate(90deg);
 }
 }
